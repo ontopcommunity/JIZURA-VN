@@ -104,7 +104,7 @@ J.LANG_FACES = {
       klee: F('Gowun Batang', 700, 'Gowun+Batang:wght@700'), brush: F('Nanum Brush Script', 400, 'Nanum+Brush+Script'),
       reggae: F('Black Han Sans', 400, 'Black+Han+Sans'), rampart: F('Black Han Sans', 400, 'Black+Han+Sans'), potta: F('Nanum Brush Script', 400, 'Nanum+Brush+Script'),
     },
-  },,
+  },
   vi: {
     sans: F('Be Vietnam Pro', 500, 'Be+Vietnam+Pro:wght@300;400;500;600;700;800;900'), serif: F('Noto Serif', 500, 'Noto+Serif:wght@300;400;500;600;700;800;900'),
     fbSans: '"Be Vietnam Pro","Noto Sans","Inter","Roboto",system-ui,sans-serif', fbSerif: '"Noto Serif","Merriweather","Georgia",serif',
